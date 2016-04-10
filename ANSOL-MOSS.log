@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.11.11)  9 APR 2016 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.11.11)  10 APR 2016 01:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -51,6 +51,19 @@ Package: inputenc 2014/04/30 v1.2b Input encoding file
 (/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2014/04/30 v1.2b Input encoding file
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+lcmss on input line 100
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1lcmss.fd
+File: t1lcmss.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -83,74 +96,171 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
 )
-(./ANSOL-MOSS.aux (./sfd-teams.aux))
-\openout1 = `ANSOL-MOSS.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/lcmss/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count84
-\scratchdimen=\dimen104
-\scratchbox=\box29
-\nofMPsegments=\count85
-\nofMParguments=\count86
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count87
-\MPscratchDim=\dimen105
-\MPnumerator=\count88
-\makeMPintoPDFobject=\count89
-\everyMPtoPDFconversion=\toks18
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
 )
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-)))
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen106
+\Hy@linkcounter=\count84
+\Hy@pagecounter=\count85
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count86
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count87
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen107
+\Fld@menulength=\count88
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count89
+\c@Item=\count90
+\c@Hfootnote=\count91
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count92
+\c@bookmark@seq@number=\count93
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip41
+)
+(./ANSOL-MOSS.aux (./sfd-teams.aux))
+\openout1 = `ANSOL-MOSS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/lcmss/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen110
+\scratchbox=\box29
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen111
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
@@ -160,40 +270,311 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-[1
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count100
+)
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
+
+(./ANSOL-MOSS.out) (./ANSOL-MOSS.out)
+\@outlinefile=\write3
+\openout3 = `ANSOL-MOSS.out'.
+
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-LaTeX Font Info:    Try loading font information for OML+lcmm on input line 38.
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 48.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omllcmm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omllcmm.fd
 File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 38
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 48
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omslcmsy.fd
 File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 38
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 48
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omxlcmex.fd
 File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <16.59> on input line 38.
+(Font)              <19.907> on input line 48.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <12> on input line 38.
+(Font)              <16.59> on input line 48.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <7> on input line 38.
- [3] [4]
-<sfd-2015.png, id=18, 644.4075pt x 312.41719pt>
+(Font)              <13.82> on input line 48.
+LaTeX Font Info:    Try loading font information for T1+lcmtt on input line 54.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1lcmtt.fd
+File: t1lcmtt.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+) [3]
+Overfull \hbox (0.41924pt too wide) in paragraph at lines 62--63
+[]\T1/lcmss/m/n/19.907 Lei da Crim-i-nal-i-dade In-for-mática (revo-gada pelo L
+ei do Ciber-
+ []
+
+[4]
+Overfull \hbox (10.2343pt too wide) in paragraph at lines 72--74
+[]\T1/lcmss/m/n/19.907 programas de com-puta-dor ex-cluí-dos do catál-ogo das i
+n-venções
+ []
+
+
+Class slides Warning: Slide 4 too long on input line 78.
+
+[4] [5]
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <12> on input line 98.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <7> on input line 98.
+ [6] (./category.latex
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 65.
+
+
+Overfull \vbox (2.0pt too high) detected at line 65
+ []
+
+
+Overfull \hbox (2.0pt too wide) detected at line 65
+ 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 66.
+
+
+Overfull \vbox (2.0pt too high) detected at line 66
+ []
+
+
+Overfull \hbox (2.0pt too wide) detected at line 66
+ 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 67.
+
+
+Overfull \vbox (2.0pt too high) detected at line 67
+ []
+
+
+Overfull \hbox (2.0pt too wide) detected at line 67
+ 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 68.
+
+
+Overfull \vbox (2.0pt too high) detected at line 68
+ []
+
+
+Overfull \hbox (2.0pt too wide) detected at line 68
+ 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 486.
+
+
+Overfull \vbox (2.0pt too high) detected at line 486
+ []
+
+
+Overfull \hbox (2.0pt too wide) detected at line 486
+ 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 487.
+
+
+Overfull \vbox (2.0pt too high) detected at line 487
+ []
+
+
+Overfull \hbox (2.0pt too wide) detected at line 487
+ 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 488.
+
+
+Overfull \vbox (2.0pt too high) detected at line 488
+ []
+
+
+Overfull \hbox (2.0pt too wide) detected at line 488
+ 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 489.
+
+
+Overfull \vbox (2.0pt too high) detected at line 489
+ []
+
+
+Overfull \hbox (2.0pt too wide) detected at line 489
+ 
+ []
+
+) [7] [8] [9] [10] <pct2001-miguelg.jpg, id=66, 425.59pt x 252.945pt>
+File: pct2001-miguelg.jpg Graphic file (type jpg)
+
+<use pct2001-miguelg.jpg>
+Package pdftex.def Info: pct2001-miguelg.jpg used on input line 148.
+(pdftex.def)             Requested size: 425.58894pt x 252.94438pt.
+ [11 <./pct2001-miguelg.jpg>]
+<ansol-fsfe.png, id=71, 584.93532pt x 257.46187pt>
+File: ansol-fsfe.png Graphic file (type png)
+ <use ansol-fsfe.png>
+Package pdftex.def Info: ansol-fsfe.png used on input line 163.
+(pdftex.def)             Requested size: 584.93388pt x 257.46123pt.
+
+
+Class slides Warning: Slide 11 too long on input line 164.
+
+[11] <porto2002.png, id=77, 604.50844pt x 357.58594pt>
+File: porto2002.png Graphic file (type png)
+ <use porto2002.png>
+Package pdftex.def Info: porto2002.png used on input line 165.
+(pdftex.def)             Requested size: 604.50696pt x 357.58505pt.
+
+
+Class slides Warning: Slide 11 too long on input line 166.
+
+[11 <./ansol-fsfe.png>] <stallman-2003.png, id=83, 569.12625pt x 303.38344pt>
+File: stallman-2003.png Graphic file (type png)
+
+<use stallman-2003.png>
+Package pdftex.def Info: stallman-2003.png used on input line 167.
+(pdftex.def)             Requested size: 569.12486pt x 303.38269pt.
+
+
+Class slides Warning: Slide 11 too long on input line 168.
+
+[11 <./porto2002.png>]
+
+Class slides Warning: Slide 11 too long on input line 169.
+
+[11 <./stallman-2003.png>] <patentes.png, id=94, 672.26157pt x 332.74312pt>
+File: patentes.png Graphic file (type png)
+
+<use patentes.png>
+Package pdftex.def Info: patentes.png used on input line 178.
+(pdftex.def)             Requested size: 672.25992pt x 332.7423pt.
+
+Overfull \hbox (60.25992pt too wide) in paragraph at lines 177--179
+[] 
+ []
+
+
+Class slides Warning: Slide 11 too long on input line 179.
+
+[11] <OOXML.png, id=100, 679.03688pt x 335.75438pt>
+File: OOXML.png Graphic file (type png)
+ <use OOXML.png>
+Package pdftex.def Info: OOXML.png used on input line 180.
+(pdftex.def)             Requested size: 679.03522pt x 335.75356pt.
+
+Overfull \hbox (67.03522pt too wide) in paragraph at lines 179--182
+[] 
+ []
+
+
+Class slides Warning: Slide 11 too long on input line 182.
+
+[11 <./patentes.png>] <CD.png, id=105, 678.28406pt x 325.215pt>
+File: CD.png Graphic file (type png)
+ <use CD.png>
+Package pdftex.def Info: CD.png used on input line 183.
+(pdftex.def)             Requested size: 678.2824pt x 325.2142pt.
+
+Overfull \hbox (66.2824pt too wide) in paragraph at lines 182--184
+[] 
+ []
+
+
+Class slides Warning: Slide 11 too long on input line 184.
+
+[11 <./OOXML.png>] <DFD.png, id=111, 565.36218pt x 272.51813pt>
+File: DFD.png Graphic file (type png)
+ <use DFD.png>
+Package pdftex.def Info: DFD.png used on input line 185.
+(pdftex.def)             Requested size: 565.3608pt x 272.51746pt.
+
+
+Class slides Warning: Slide 11 too long on input line 186.
+
+[11 <./CD.png>]
+
+Class slides Warning: Slide 11 too long on input line 187.
+
+[11 <./DFD.png>] <transparencia.png, id=120, 608.2725pt x 354.57469pt>
+File: transparencia.png Graphic file (type png)
+
+<use transparencia.png>
+Package pdftex.def Info: transparencia.png used on input line 191.
+(pdftex.def)             Requested size: 608.27103pt x 354.57382pt.
+ <AP.png, id=121, 621.07031pt x 328.22626pt>
+File: AP.png Graphic file (type png)
+
+<use AP.png>
+Package pdftex.def Info: AP.png used on input line 193.
+(pdftex.def)             Requested size: 621.06879pt x 328.22545pt.
+
+Overfull \hbox (9.06879pt too wide) in paragraph at lines 192--194
+[] 
+ []
+
+[12 <./transparencia.png>] <normas.png, id=126, 640.64343pt x 357.58594pt>
+File: normas.png Graphic file (type png)
+
+<use normas.png>
+Package pdftex.def Info: normas.png used on input line 195.
+(pdftex.def)             Requested size: 640.64186pt x 357.58505pt.
+
+Overfull \hbox (28.64186pt too wide) in paragraph at lines 194--196
+[] 
+ []
+
+
+Class slides Warning: Slide 12 too long on input line 196.
+
+[12 <./AP.png>]
+
+Class slides Warning: Slide 12 too long on input line 197.
+
+[12 <./normas.png>]
+
+Class slides Warning: Slide 12 too long on input line 201.
+
+[12] [13] <sfd-2015.png, id=144, 644.4075pt x 312.41719pt>
 File: sfd-2015.png Graphic file (type png)
  <use sfd-2015.png>
-Package pdftex.def Info: sfd-2015.png used on input line 54.
+Package pdftex.def Info: sfd-2015.png used on input line 212.
 (pdftex.def)             Requested size: 644.40593pt x 312.41641pt.
- [5 <./sfd-2015.png>]
+
+[14 <./sfd-2015.png>]
 \openout2 = `sfd-teams.aux'.
 
  (./sfd-teams.tex
@@ -208,7 +589,7 @@ Package epstopdf Info: Source file: <sfd-teams.eps>
 (epstopdf)             \includegraphics on input line 111.
 Package epstopdf Info: Output file is already uptodate.
 
-<sfd-teams-eps-converted-to.pdf, id=22, 650.43pt x 361.35pt>
+<sfd-teams-eps-converted-to.pdf, id=149, 650.43pt x 361.35pt>
 File: sfd-teams-eps-converted-to.pdf Graphic file (type pdf)
 
 <use sfd-teams-eps-converted-to.pdf>
@@ -216,70 +597,57 @@ Package pdftex.def Info: sfd-teams-eps-converted-to.pdf used on input line 111.
 
 (pdftex.def)             Requested size: 650.4284pt x 361.34912pt.
 )
-Overfull \hbox (0.4126pt too wide) in paragraph at lines 113--58
+Overfull \hbox (0.4126pt too wide) in paragraph at lines 113--216
 [][] 
  []
 
 
-Class slides Warning: Slide 5 too long on input line 58.
+Class slides Warning: Slide 14 too long on input line 216.
 
-[5
+[14
 
  <./sfd-teams-eps-converted-to.pdf>]
-LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <19.907> on input line 64.
-LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <13.82> on input line 64.
 
+Class slides Warning: Slide 14 too long on input line 226.
 
-Class slides Warning: Slide 5 too long on input line 68.
+[14
 
-[5
-
-] [6] [7] <pct2001-miguelg.jpg, id=38, 425.59pt x 252.945pt>
-File: pct2001-miguelg.jpg Graphic file (type jpg)
-
-<use pct2001-miguelg.jpg>
-Package pdftex.def Info: pct2001-miguelg.jpg used on input line 87.
-(pdftex.def)             Requested size: 425.58894pt x 252.94438pt.
- [8 <./pct2001-miguelg.jpg>]
-
-Class slides Warning: Slide 8 too long on input line 97.
-
-[8]
-Overfull \hbox (28.47948pt too wide) in paragraph at lines 97--98
-[]\OT1/lcmss/m/n/19.907 ANSOL re-cebe pr^^Semio Soft-ware dos Pr^^Semios Ex-ame
- In-form^^Satica
- []
-
-
-Class slides Warning: Slide 8 too long on input line 101.
-
-[8]
-
-Class slides Warning: Slide 8 too long on input line 106.
-
-[8]
-
-Class slides Warning: Slide 8 too long on input line 107.
-
-[8] [9] (./ANSOL-MOSS.aux (./sfd-teams.aux)) ) 
+] [15] [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
+ (./ANSOL-MOSS.aux (./sfd-teams.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
+Package rerunfilecheck Info: File `ANSOL-MOSS.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
+ ) 
 Here is how much of TeX's memory you used:
- 1651 strings out of 495020
- 24616 string characters out of 6181323
- 76758 words of memory out of 5000000
- 4843 multiletter control sequences out of 15000+600000
- 9743 words of font info for 34 fonts, out of 8000000 for 9000
+ 5603 strings out of 495020
+ 83523 string characters out of 6181323
+ 285110 words of memory out of 5000000
+ 8703 multiletter control sequences out of 15000+600000
+ 16817 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,6n,25p,245b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/latxfont/lcmss8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/latxfont/lcmssi8.pfb>
-Output written on ANSOL-MOSS.pdf (15 pages, 171221 bytes).
+ 29i,6n,25p,256b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/eclb8.1493pk> </home/ma
+rado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecltt8.1244pk> </home/marado/.texmf
+-var/fonts/pk/ljfour/jknappen/ec/eclq8.750pk> </home/marado/.texmf-var/fonts/pk
+/ljfour/jknappen/ec/eclq8.900pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecli8.1244pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8
+.1244pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecltt8.1493pk> </
+home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecli8.1493pk> </home/marado/
+.texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.3096pk> </home/marado/.texmf-var/f
+onts/pk/ljfour/jknappen/ec/eclq8.1037pk> </home/marado/.texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/eclq8.1493pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/
+ec/eclq8.2150pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lc
+ircle1.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/
+lcmss8.pfb>
+Output written on ANSOL-MOSS.pdf (31 pages, 1374885 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

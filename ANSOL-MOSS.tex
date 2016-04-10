@@ -3,9 +3,12 @@
 
 % Importa os caracteres latinos
 \usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
 
-% Importa os pacotes para inclusao de graficos
+% Importa os pacotes para inclusao de graficos e links
 \usepackage{graphicx}
+\usepackage{epsfig,color}
+\usepackage{hyperref}
 
 % Define o autor
 \author{Marcos Daniel Marado Torres}
@@ -14,7 +17,7 @@
 \title{ANSOL\\Associação Nacional para o Software Livre}
 
 % Define a data
-\date{Software Freedom Day 2015 -- Porto}
+\date{Aula Aberta -- Mestrado em Software de Código Aberto}
 
 % Da inicio ao documento
 \begin{document}
@@ -25,9 +28,66 @@
 \maketitle
 \end{slide}
 
+% Software Livre
+
 \begin{slide}
 \center{\Huge{O Software Livre}}
 \end{slide}
+
+
+\begin{slide}
+\emph{Software}
+
+\begin{quote}
+\emph{software} | s. m.
+
+\emph{software} |softuére|\\
+(palavra inglesa, de soft, mole + ware, mercadoria)\\
+\emph{substantivo masculino}
+
+$[$Informática$]$  Conjunto de programas, processos, regras e, eventualmente,
+documentação, relativos ao funcionamento de um conjunto de tratamento de
+informação (por oposição a hardware).
+
+Plural: softwares.
+\end{quote}
+\hfill \emph{in} \url{https://www.priberam.pt/DLPO/software}
+\end{slide}
+
+\begin{slide}
+\emph{Software} -- definição legal
+
+\begin{itemize}
+\item{} Lei do Cibercrime refere a existência de ``programas'', mas não produz uma definição
+\item{} Lei da Criminalidade Informática (revogada pelo Lei do Cibercrime) definia:
+\begin{quote}
+Programas de computador -- ``Conjunto de instruções capazes, quando inseridas
+num suporte explorável em máquina, de permitir à máquina, que tem por funções o
+tratamento de informações indicar, executar ou produzir determinada função,
+tarefa ou resultado''
+\end{quote}
+\item{} Lei da Criminalidade Informática explicitava ainda a existência de
+    ``Código objecto'' (0s e 1s) e ``Código fonte'', ambos considerados programas
+    de computador
+\item{} programas de computador excluídos do catálogo das invenções protegidas
+    nos termos da Convenção de Munique sobre a Patente Europeia de 1973
+\item{} Programas de computador considerados como ``obra protegida'' no Código
+    do Direito de Autor e dos Direitos Conexos
+\end{itemize}
+
+\end{slide}
+
+\begin{slide}
+Free Software -- Software Livre
+
+\begin{itemize}
+\item{} \emph{Free} como \emph{Livre}, não grátis
+\item{} \emph{Livre}, de Liberdade\ldots
+\end{itemize}
+
+Que liberdades?
+\end{slide}
+
 
 \begin{slide}
 O Software Livre
@@ -45,6 +105,104 @@ O software que siga esses quatro princípios é chamado ``Software Livre'' (ou \em
 \end{slide}
 
 \begin{slide}
+\begin{small}
+\begin{center}
+\input{category.latex} \\
+\hfill -- \emph{in} \url{http://www.gnu.org/philosophy/categories.pt-br.html}, CC-SA
+\end{center}
+\end{small}
+\end{slide}
+
+\begin{slide}
+Licenças de Software
+\begin{itemize}
+\item{} \emph{Compatíveis com a GPL} -- GPL, LGPL, AGPL 3, GNU All-Permissive License,
+    Apache License 2, Artistic License 2, Boost Software License, Modified BSD License,
+    CC0, CeCILL, Clear BSD License, Cryptix General License,\ldots
+\item{} \emph{Incompatíveis com a GPL} -- AGPL 1, Accademic Free License 3, Apache License 1 e 1.1,
+    APSL 2, BitTorrent Open Source License, Original BSD License, CDDL 1, CPAL,
+    Common Public License 1, Condor Public License, EPL, EUPL 1.1,\ldots
+\item{} \emph{Não-Livres} -- ``Sem Licença'', Aladdin Free Public License, APSL 1,
+    Artistic License 1, AT\&T Public License, Code Project Open License, eCos,\ldots
+\end{itemize}
+\end{slide}
+
+\begin{slide}
+O Movimento do Software Livre
+\begin{itemize}
+\item{} Criado em 1983, por Richard Stallman
+\item{} Free Software Foundation fundada em 1985
+\item{} Free Software Foundation fundada em 2001
+\end{itemize}
+\end{slide}
+
+% A ANSOL
+
+\begin{slide}
+\center{\Huge{ANSOL\\Associação Nacional para o Software Livre}}
+\end{slide}
+
+\begin{slide}
+ANSOL -- Associação Nacional para o Software Livre
+\begin{center}
+\includegraphics{pct2001-miguelg.jpg}
+\end{center}
+\emph{Lançamento oficial em Outubro de 2001, durante o Porto Cidade Tecnológica}
+
+\begin{itemize}
+\item{} Associação portuguesa sem fins lucrativos 
+\item{} divulgação, promoção, desenvolvimento, investigação e estudo da Informática Livre\ldots
+\item{} \ldots e das suas repercussões sociais, políticas, filosóficas, culturais, técnicas e científicas
+\item{} conta com cerca de 80 sócios
+\item{} quota anual 30 euros (12 euros no caso de estudantes, desempregados e reformados)
+\end{itemize}
+
+A ANSOL ao longo dos anos
+\begin{itemize}
+    \item{} Criação em coordenação com a \emph{Free Software Foundation Europe}, que reconhece em 2002 a ANSOL como Organização Associada
+        \\ \includegraphics{ansol-fsfe.png}
+    \item{} Entidade Organizadora do Porto 2002, Cidade Tecnológica - Sistemas Livres 
+        \\ \includegraphics{porto2002.png}
+    \item{} Colaboração com a Ordem dos Engenheiros para organização de evento de Richard Stallman em Portugal (2003)
+        \\ \includegraphics{stallman-2003.png}
+    \item{} Envolvimento na transposição da Directiva Europeia EUCD para a Legislação Portuguesa (2002--2004)
+    \begin{itemize}
+        \item{} Directiva Europeia que implementa, pela primeira vez, restrições de acesso no Direito de Autor
+        \item{} Criminaliza neutralização de DRM
+        \item{} Criminaliza qualquer discussão que possa facilitar essa neutralização
+        \item{} Interfere no desenvolvimento de Software Livre
+        \item{} Contributo inicial enviado em 2002, acompanhamento da proposta até à sua aprovação em 2004
+        \item{} Mais info: \url{https://ansol.org/politica/eucd}
+    \end{itemize}
+    \item{} Campanha contra Patentes de Software culmina na sua rejeição pelo Parlamento Europeu em 2005
+        \\ \includegraphics{patentes.png}
+    \item{} OOXML publicado como norma ECMA em 2006, distinção entre ``norma'' e ``normas abertas''
+        \\ \includegraphics{OOXML.png}
+    % \item{} ANSOL recebe prémio ``Software'' dos Prémios Exame Informática 2006, em nome da Mozilla Foundation
+    \item{} Sun e ANSOL juntam-se na elaboração do CD ``Software Livre na Escola'', distribuído nas escolas pelo Ministério da Educação
+        \\ \includegraphics{CD.png}
+    \item{} Em 2008, ANSOL começa a celebração anual do ``Document Freedom Day'' em Portugal
+        \\ \includegraphics{DFD.png}
+\end{itemize}
+\end{slide}
+\begin{slide}
+\begin{itemize}
+    \item{} Lançamento do Portal ``Transparência na AP'' em 2009
+        \\ \includegraphics{transparencia.png}
+    \item{} Campanha para o uso de Software Livre na Administração Pública em 2010, poupança estimada em 121 milhões
+        \\ \includegraphics{AP.png}
+    \item{} Em 2011 foi aprovada a Lei das Normas Abertas na Assembleia da República
+        \\ \includegraphics{normas.png}
+    \item{} ANSOL participa na campanha internacional conta o ACTA, durante 2012
+    \item{} Em 2013 a ANSOL junta-se a outras entidades no apelo à AR para a correcção da legislação relativa ao DRM
+    \item{} Lei da Cópia Privada volta à agenda Política Portuguesa em 2014, ANSOL organiza petição
+    \item{} Em 2015, a ANSOL continua forte na sua actividade em prol da defesa do Software Livre\ldots Contamos \emph{contigo}! % TODO - actualizar
+\end{itemize}
+\end{slide}
+
+% O SFD
+
+\begin{slide}
 \center{\Huge{O Software Freedom Day}}
 \end{slide}
 
@@ -53,7 +211,7 @@ O Software Freedom Day
 \begin{center}
 \includegraphics{sfd-2015.png}
 \end{center}
-\emph{Mapa de Eventos SFD 2015 registados a 17 de Agosto}
+\emph{Mapa de Eventos SFD 2015 registados a 17 de Agosto} % TODO - actualizar
 
 \include{sfd-teams}
 
@@ -73,36 +231,6 @@ O Software Freedom Day -- Objectivos \emph{(continuação)}
 \item{} Promover um diálogo construtivo sobre as responsabilidades e os direitos na Sociedade de Informação
 \item{} Ser inclusivo de organizações e indivíduos que partilham a nossa Visão
 \item{} Ser pragmático, transparente e responsável enquanto organização
-\end{itemize}
-\end{slide}
-
-\begin{slide}
-\center{\Huge{ANSOL\\Associação Nacional para o Software Livre}}
-\end{slide}
-
-
-\begin{slide}
-ANSOL -- Associação Nacional para o Software Livre
-\begin{center}
-\includegraphics{pct2001-miguelg.jpg}
-\end{center}
-\emph{Lançamento oficial em Outubro de 2001, durante o Porto Cidade Tecnológica}
-\begin{itemize}
-    \item{} Criação em coordenação com a \emph{Free Software Foundation Europe}, que reconhece em 2002 a ANSOL como Organização Associada
-    \item{} Entidade Organizadora do Porto 2002, Cidade Tecnológica - Sistemas Livres 
-    \item{} Colaboração com a Ordem dos Engenheiros para organização de evento de Richard Stallman em Portugal (2003)
-    \item{} Envolvimento na transposição da Directiva Europeia EUCD para a Legislação Portuguesa (2004)
-    \item{} Campanha contra Patentes de Software culmina na sua rejeição pelo Parlamento Europeu em 2005
-    \item{} OOXML publicado como norma ECMA em 2006, distinção entre ``norma'' e ``normas abertas''
-    \item{} ANSOL recebe prémio Software dos Prémios Exame Informática 2007, em nome da Mozilla Foundation
-    \item{} Em 2008, ANSOL começa a celebração anual do ``Document Freedom Day'' em Portugal
-    \item{} Lançamento do Portal ``Transparência na AP'' em 2009
-    \item{} Campanha para o uso de Software Livre na Administração Pública em 2010, poupança estimada em 121 milhões
-    \item{} Em 2011 foi aprovada a Lei das Normas Abertas na Assembleia da República
-    \item{} ANSOL participa na campanha internacional conta o ACTA, durante 2012
-    \item{} Em 2013 a ANSOL junta-se a outras entidades no apelo à AR para a correcção da legislação relativa ao DRM
-    \item{} Lei da Cópia Privada volta à agenda Política Portuguesa em 2014, ANSOL organiza petição
-    \item{} Em 2015, a ANSOL continua forte na sua actividade em prol da defesa do Software Livre... Contamos \emph{contigo}!
 \end{itemize}
 \end{slide}
 
