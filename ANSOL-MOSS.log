@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.11.11)  10 APR 2016 01:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.11.11)  11 APR 2016 21:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,54 +292,54 @@ LaTeX Info: Redefining \nameref on input line 23.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-LaTeX Font Info:    Try loading font information for OML+lcmm on input line 48.
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 52.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omllcmm.fd
 File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 48
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 52
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omslcmsy.fd
 File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 48
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 52
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omxlcmex.fd
 File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <19.907> on input line 48.
+(Font)              <19.907> on input line 52.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <16.59> on input line 48.
+(Font)              <16.59> on input line 52.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <13.82> on input line 48.
-LaTeX Font Info:    Try loading font information for T1+lcmtt on input line 54.
+(Font)              <13.82> on input line 52.
+LaTeX Font Info:    Try loading font information for T1+lcmtt on input line 58.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1lcmtt.fd
 File: t1lcmtt.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 ) [3]
-Overfull \hbox (0.41924pt too wide) in paragraph at lines 62--63
+Overfull \hbox (0.41924pt too wide) in paragraph at lines 66--67
 []\T1/lcmss/m/n/19.907 Lei da Crim-i-nal-i-dade In-for-mática (revo-gada pelo L
 ei do Ciber-
  []
 
 [4]
-Overfull \hbox (10.2343pt too wide) in paragraph at lines 72--74
+Overfull \hbox (10.2343pt too wide) in paragraph at lines 76--78
 []\T1/lcmss/m/n/19.907 programas de com-puta-dor ex-cluí-dos do catál-ogo das i
 n-venções
  []
 
 
-Class slides Warning: Slide 4 too long on input line 78.
+Class slides Warning: Slide 4 too long on input line 82.
 
 [4] [5]
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <12> on input line 98.
+(Font)              <12> on input line 102.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <7> on input line 98.
+(Font)              <7> on input line 102.
  [6] (./category.latex
 
 LaTeX Warning: \oval, \circle, or \line size unavailable on input line 65.
@@ -441,108 +441,108 @@ Overfull \hbox (2.0pt too wide) detected at line 489
 File: pct2001-miguelg.jpg Graphic file (type jpg)
 
 <use pct2001-miguelg.jpg>
-Package pdftex.def Info: pct2001-miguelg.jpg used on input line 148.
+Package pdftex.def Info: pct2001-miguelg.jpg used on input line 152.
 (pdftex.def)             Requested size: 425.58894pt x 252.94438pt.
  [11 <./pct2001-miguelg.jpg>]
 <ansol-fsfe.png, id=71, 584.93532pt x 257.46187pt>
 File: ansol-fsfe.png Graphic file (type png)
  <use ansol-fsfe.png>
-Package pdftex.def Info: ansol-fsfe.png used on input line 163.
+Package pdftex.def Info: ansol-fsfe.png used on input line 167.
 (pdftex.def)             Requested size: 584.93388pt x 257.46123pt.
 
 
-Class slides Warning: Slide 11 too long on input line 164.
+Class slides Warning: Slide 11 too long on input line 168.
 
 [11] <porto2002.png, id=77, 604.50844pt x 357.58594pt>
 File: porto2002.png Graphic file (type png)
  <use porto2002.png>
-Package pdftex.def Info: porto2002.png used on input line 165.
+Package pdftex.def Info: porto2002.png used on input line 169.
 (pdftex.def)             Requested size: 604.50696pt x 357.58505pt.
 
 
-Class slides Warning: Slide 11 too long on input line 166.
+Class slides Warning: Slide 11 too long on input line 170.
 
 [11 <./ansol-fsfe.png>] <stallman-2003.png, id=83, 569.12625pt x 303.38344pt>
 File: stallman-2003.png Graphic file (type png)
 
 <use stallman-2003.png>
-Package pdftex.def Info: stallman-2003.png used on input line 167.
+Package pdftex.def Info: stallman-2003.png used on input line 171.
 (pdftex.def)             Requested size: 569.12486pt x 303.38269pt.
 
 
-Class slides Warning: Slide 11 too long on input line 168.
+Class slides Warning: Slide 11 too long on input line 172.
 
 [11 <./porto2002.png>]
 
-Class slides Warning: Slide 11 too long on input line 169.
+Class slides Warning: Slide 11 too long on input line 173.
 
 [11 <./stallman-2003.png>] <patentes.png, id=94, 672.26157pt x 332.74312pt>
 File: patentes.png Graphic file (type png)
 
 <use patentes.png>
-Package pdftex.def Info: patentes.png used on input line 178.
+Package pdftex.def Info: patentes.png used on input line 182.
 (pdftex.def)             Requested size: 672.25992pt x 332.7423pt.
 
-Overfull \hbox (60.25992pt too wide) in paragraph at lines 177--179
+Overfull \hbox (60.25992pt too wide) in paragraph at lines 181--183
 [] 
  []
 
 
-Class slides Warning: Slide 11 too long on input line 179.
+Class slides Warning: Slide 11 too long on input line 183.
 
 [11] <OOXML.png, id=100, 679.03688pt x 335.75438pt>
 File: OOXML.png Graphic file (type png)
  <use OOXML.png>
-Package pdftex.def Info: OOXML.png used on input line 180.
+Package pdftex.def Info: OOXML.png used on input line 184.
 (pdftex.def)             Requested size: 679.03522pt x 335.75356pt.
 
-Overfull \hbox (67.03522pt too wide) in paragraph at lines 179--182
+Overfull \hbox (67.03522pt too wide) in paragraph at lines 183--186
 [] 
  []
-
-
-Class slides Warning: Slide 11 too long on input line 182.
-
-[11 <./patentes.png>] <CD.png, id=105, 678.28406pt x 325.215pt>
-File: CD.png Graphic file (type png)
- <use CD.png>
-Package pdftex.def Info: CD.png used on input line 183.
-(pdftex.def)             Requested size: 678.2824pt x 325.2142pt.
-
-Overfull \hbox (66.2824pt too wide) in paragraph at lines 182--184
-[] 
- []
-
-
-Class slides Warning: Slide 11 too long on input line 184.
-
-[11 <./OOXML.png>] <DFD.png, id=111, 565.36218pt x 272.51813pt>
-File: DFD.png Graphic file (type png)
- <use DFD.png>
-Package pdftex.def Info: DFD.png used on input line 185.
-(pdftex.def)             Requested size: 565.3608pt x 272.51746pt.
 
 
 Class slides Warning: Slide 11 too long on input line 186.
 
+[11 <./patentes.png>] <CD.png, id=105, 678.28406pt x 325.215pt>
+File: CD.png Graphic file (type png)
+ <use CD.png>
+Package pdftex.def Info: CD.png used on input line 187.
+(pdftex.def)             Requested size: 678.2824pt x 325.2142pt.
+
+Overfull \hbox (66.2824pt too wide) in paragraph at lines 186--188
+[] 
+ []
+
+
+Class slides Warning: Slide 11 too long on input line 188.
+
+[11 <./OOXML.png>] <DFD.png, id=111, 565.36218pt x 272.51813pt>
+File: DFD.png Graphic file (type png)
+ <use DFD.png>
+Package pdftex.def Info: DFD.png used on input line 189.
+(pdftex.def)             Requested size: 565.3608pt x 272.51746pt.
+
+
+Class slides Warning: Slide 11 too long on input line 190.
+
 [11 <./CD.png>]
 
-Class slides Warning: Slide 11 too long on input line 187.
+Class slides Warning: Slide 11 too long on input line 191.
 
 [11 <./DFD.png>] <transparencia.png, id=120, 608.2725pt x 354.57469pt>
 File: transparencia.png Graphic file (type png)
 
 <use transparencia.png>
-Package pdftex.def Info: transparencia.png used on input line 191.
+Package pdftex.def Info: transparencia.png used on input line 195.
 (pdftex.def)             Requested size: 608.27103pt x 354.57382pt.
  <AP.png, id=121, 621.07031pt x 328.22626pt>
 File: AP.png Graphic file (type png)
 
 <use AP.png>
-Package pdftex.def Info: AP.png used on input line 193.
+Package pdftex.def Info: AP.png used on input line 197.
 (pdftex.def)             Requested size: 621.06879pt x 328.22545pt.
 
-Overfull \hbox (9.06879pt too wide) in paragraph at lines 192--194
+Overfull \hbox (9.06879pt too wide) in paragraph at lines 196--198
 [] 
  []
 
@@ -550,31 +550,85 @@ Overfull \hbox (9.06879pt too wide) in paragraph at lines 192--194
 File: normas.png Graphic file (type png)
 
 <use normas.png>
-Package pdftex.def Info: normas.png used on input line 195.
+Package pdftex.def Info: normas.png used on input line 199.
 (pdftex.def)             Requested size: 640.64186pt x 357.58505pt.
 
-Overfull \hbox (28.64186pt too wide) in paragraph at lines 194--196
+Overfull \hbox (28.64186pt too wide) in paragraph at lines 198--200
 [] 
  []
 
 
-Class slides Warning: Slide 12 too long on input line 196.
+Class slides Warning: Slide 12 too long on input line 200.
 
-[12 <./AP.png>]
+[12 <./AP.png>] <ACTA.png, id=131, 666.99188pt x 280.79906pt>
+File: ACTA.png Graphic file (type png)
+ <use ACTA.png>
+Package pdftex.def Info: ACTA.png used on input line 201.
+(pdftex.def)             Requested size: 666.99025pt x 280.79837pt.
 
-Class slides Warning: Slide 12 too long on input line 197.
+Overfull \hbox (54.99025pt too wide) in paragraph at lines 200--202
+[] 
+ []
+
+
+Class slides Warning: Slide 12 too long on input line 202.
 
 [12 <./normas.png>]
 
-Class slides Warning: Slide 12 too long on input line 201.
+Class slides Warning: Slide 12 too long on input line 203.
 
-[12] [13] <sfd-2015.png, id=144, 644.4075pt x 312.41719pt>
+[12 <./ACTA.png>] <DRM.png, id=141, 525.46312pt x 304.13625pt>
+File: DRM.png Graphic file (type png)
+ <use DRM.png>
+Package pdftex.def Info: DRM.png used on input line 207.
+(pdftex.def)             Requested size: 525.46184pt x 304.1355pt.
+
+<PL118.png, id=142, 632.3625pt x 325.96782pt>
+File: PL118.png Graphic file (type png)
+ <use PL118.png>
+Package pdftex.def Info: PL118.png used on input line 209.
+(pdftex.def)             Requested size: 632.36096pt x 325.96701pt.
+
+Overfull \hbox (20.36096pt too wide) in paragraph at lines 208--210
+[] 
+ []
+
+[13 <./DRM.png>]
+
+Class slides Warning: Slide 13 too long on input line 211.
+
+[13 <./PL118.png>] [14]
+
+Class slides Warning: Slide 14 too long on input line 226.
+
+[14]
+
+Class slides Warning: Slide 14 too long on input line 232.
+
+[14]
+
+Class slides Warning: Slide 14 too long on input line 236.
+
+[14]
+
+Class slides Warning: Slide 14 too long on input line 240.
+
+[14] <eventos.png, id=174, 521.69907pt x 441.14813pt>
+File: eventos.png Graphic file (type png)
+ <use eventos.png>
+Package pdftex.def Info: eventos.png used on input line 243.
+(pdftex.def)             Requested size: 521.69778pt x 441.14705pt.
+
+Overfull \vbox (19.14705pt too high) has occurred while \output is active []
+
+
+[15 <./eventos.png>] [16] <sfd-2015.png, id=183, 644.4075pt x 312.41719pt>
 File: sfd-2015.png Graphic file (type png)
- <use sfd-2015.png>
-Package pdftex.def Info: sfd-2015.png used on input line 212.
-(pdftex.def)             Requested size: 644.40593pt x 312.41641pt.
 
-[14 <./sfd-2015.png>]
+<use sfd-2015.png>
+Package pdftex.def Info: sfd-2015.png used on input line 255.
+(pdftex.def)             Requested size: 644.40593pt x 312.41641pt.
+ [17 <./sfd-2015.png>]
 \openout2 = `sfd-teams.aux'.
 
  (./sfd-teams.tex
@@ -589,7 +643,7 @@ Package epstopdf Info: Source file: <sfd-teams.eps>
 (epstopdf)             \includegraphics on input line 111.
 Package epstopdf Info: Output file is already uptodate.
 
-<sfd-teams-eps-converted-to.pdf, id=149, 650.43pt x 361.35pt>
+<sfd-teams-eps-converted-to.pdf, id=188, 650.43pt x 361.35pt>
 File: sfd-teams-eps-converted-to.pdf Graphic file (type pdf)
 
 <use sfd-teams-eps-converted-to.pdf>
@@ -597,57 +651,119 @@ Package pdftex.def Info: sfd-teams-eps-converted-to.pdf used on input line 111.
 
 (pdftex.def)             Requested size: 650.4284pt x 361.34912pt.
 )
-Overfull \hbox (0.4126pt too wide) in paragraph at lines 113--216
+Overfull \hbox (0.4126pt too wide) in paragraph at lines 113--259
 [][] 
  []
 
 
-Class slides Warning: Slide 14 too long on input line 216.
+Class slides Warning: Slide 17 too long on input line 259.
 
-[14
+[17
 
  <./sfd-teams-eps-converted-to.pdf>]
 
-Class slides Warning: Slide 14 too long on input line 226.
+Class slides Warning: Slide 17 too long on input line 269.
 
-[14
+[17
 
-] [15] [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
+] [18] [19] (./rnid.tex [20] [21]
+
+Class slides Warning: Slide 21 too long on input line 90.
+
+[21] [22] [23]
+
+Class slides Warning: Slide 23 too long on input line 113.
+
+[23] [24] [25] [26]
+Overfull \hbox (2.90579pt too wide) in paragraph at lines 163--164
+[]\T1/lcmss/m/n/19.907 partilhar im-a-gens PNG sem forçar ninguém a usar o mesm
+o
+ []
+
+
+Class slides Warning: Slide 26 too long on input line 167.
+
+[26] <lei-aprovada.png, id=250, 657.95813pt x 390.70969pt>
+File: lei-aprovada.png Graphic file (type png)
+
+<use lei-aprovada.png>
+Package pdftex.def Info: lei-aprovada.png used on input line 182.
+(pdftex.def)             Requested size: 657.95653pt x 390.70872pt.
+
+Overfull \hbox (7.95653pt too wide) in paragraph at lines 182--183
+[][] 
+ []
+
+[27 <./lei-aprovada.png>]
+Overfull \hbox (7.05446pt too wide) in paragraph at lines 186--187
+[]\T1/lcmss/m/n/19.907 Discussão da Lei com par-tic-i-pação de AN-SOL, ESOP, AP
+DSI,
+ []
+
+
+Class slides Warning: Slide 27 too long on input line 189.
+
+[27] [28] [29] [30] <incumprimentos.png, id=271, 710.655pt x 478.03593pt>
+File: incumprimentos.png Graphic file (type png)
+
+<use incumprimentos.png>
+Package pdftex.def Info: incumprimentos.png used on input line 231.
+(pdftex.def)             Requested size: 710.65326pt x 478.03476pt.
+
+Overfull \hbox (60.65326pt too wide) in paragraph at lines 231--232
+[][] 
+ []
+
+
+Overfull \vbox (56.03476pt too high) has occurred while \output is active []
+
+
+[31 <./incumprimentos.png>] [32])
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <10> on input line 304.
+
+Overfull \hbox (31.46216pt too wide) in paragraph at lines 304--305
+[]$\T1/lcmtt/m/n/13.82 http : / / qz . com / 646467 / how-[]one-[]programmer-[]
+broke-[]the-[]internet-[]by-[]deleting-[]a-[]tiny-[]piece-[]of-[]code/$[] 
+ []
+
+[33] [34] [35]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 330.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
  (./ANSOL-MOSS.aux (./sfd-teams.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 330.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 330.
 Package rerunfilecheck Info: File `ANSOL-MOSS.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 5603 strings out of 495020
- 83523 string characters out of 6181323
+ 5670 strings out of 495020
+ 84334 string characters out of 6181323
  285110 words of memory out of 5000000
- 8703 multiletter control sequences out of 15000+600000
- 16817 words of font info for 42 fonts, out of 8000000 for 9000
+ 8733 multiletter control sequences out of 15000+600000
+ 18046 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,6n,25p,256b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/eclb8.1493pk> </home/ma
-rado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecltt8.1244pk> </home/marado/.texmf
--var/fonts/pk/ljfour/jknappen/ec/eclq8.750pk> </home/marado/.texmf-var/fonts/pk
-/ljfour/jknappen/ec/eclq8.900pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecli8.1244pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8
-.1244pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecltt8.1493pk> </
-home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecli8.1493pk> </home/marado/
-.texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.3096pk> </home/marado/.texmf-var/f
-onts/pk/ljfour/jknappen/ec/eclq8.1037pk> </home/marado/.texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/eclq8.1493pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/
-ec/eclq8.2150pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lc
-ircle1.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/
-lcmss8.pfb>
-Output written on ANSOL-MOSS.pdf (31 pages, 1374885 bytes).
+ 29i,6n,25p,485b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecltt8.1037pk> </home/m
+arado/.texmf-var/fonts/pk/ljfour/jknappen/ec/eclb8.1493pk> </home/marado/.texmf
+-var/fonts/pk/ljfour/jknappen/ec/ecltt8.1244pk> </home/marado/.texmf-var/fonts/
+pk/ljfour/jknappen/ec/eclq8.750pk> </home/marado/.texmf-var/fonts/pk/ljfour/jkn
+appen/ec/eclq8.900pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecli
+8.1244pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.1244pk> </
+home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecltt8.1493pk> </home/marado
+/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecli8.1493pk> </home/marado/.texmf-var/
+fonts/pk/ljfour/jknappen/ec/eclq8.3096pk> </home/marado/.texmf-var/fonts/pk/ljf
+our/jknappen/ec/eclq8.1037pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen
+/ec/eclq8.1493pk> </home/marado/.texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.21
+50pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb>
+Output written on ANSOL-MOSS.pdf (59 pages, 2360529 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 778 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

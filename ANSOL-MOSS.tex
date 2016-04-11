@@ -28,6 +28,10 @@
 \maketitle
 \end{slide}
 
+% TODO - ter um .tex para cada um destes capítulos (Software Livre, ANSOL, SFD,
+%   etc.), para que depois possam ser incluídos independentemente nas várias
+%   Apresentações
+
 % Software Livre
 
 \begin{slide}
@@ -194,10 +198,49 @@ A ANSOL ao longo dos anos
     \item{} Em 2011 foi aprovada a Lei das Normas Abertas na Assembleia da República
         \\ \includegraphics{normas.png}
     \item{} ANSOL participa na campanha internacional conta o ACTA, durante 2012
-    \item{} Em 2013 a ANSOL junta-se a outras entidades no apelo à AR para a correcção da legislação relativa ao DRM
-    \item{} Lei da Cópia Privada volta à agenda Política Portuguesa em 2014, ANSOL organiza petição
-    \item{} Em 2015, a ANSOL continua forte na sua actividade em prol da defesa do Software Livre\ldots Contamos \emph{contigo}! % TODO - actualizar
+        \\ \includegraphics{ACTA.png}
 \end{itemize}
+\end{slide}
+\begin{slide}
+    \begin{itemize}
+    \item{} Em 2013 a ANSOL junta-se a outras entidades no apelo à AR para a correcção da legislação relativa ao DRM
+        \\ \includegraphics{DRM.png}
+    \item{} Lei da Cópia Privada volta à agenda Política Portuguesa em 2014, ANSOL organiza petição
+        \\ \includegraphics{PL118.png}
+\end{itemize}
+\end{slide}
+\begin{slide}
+A ANSOL em 2015:
+\begin{itemize}
+  \item{} Celebração do ``Eu $<3$ Software Livre 2015''
+  \item{} Esclarecimento sobre o WMV não ser uma norma aberta
+  \item{} Celebração do Education Freedom Day 2015, em Lisboa
+  \item{} Apelo à participação no Dia de Acção Global contra os Tratados Transatlânticos
+  \item{} Dar a conhecer a Liberdade que vem do Software Livre, no Dia da Liberdade
+  \item{} Contestação contra os tratados TTIP e CETA nas manifestações do $1^o$ de Maio
+  \item{} Press Release sobre a aprovação da Lei da Cópia Privada
+  \item{} co-organização do evento ``Workshop de Direitos de Autor e DRM''
+  \item{} Assembleia Geral Eleitoral
+  \item{} Plano de regularização da situação dos sócios com quotas em atraso
+  \item{} Regularização da situação dos certificados https dos vários sites da ANSOL
+  \item{} Formação do novo Grupo de Trabalho sobre Normas Abertas
+  \item{} Formação do novo Grupo de Trabalho de WebMasters
+  \item{} Apoio na organização do Software Freedom Day 2015, no Porto
+  \item{} Regularização da situação de associados da EDRi
+  \item{} Press release sobre o término da campanha sobre leitores de PDF da FSFE
+  \item{} Assembleia Geral, para alteração dos estatutos e regulamento interno
+  \item{} Escrituração nos novos estatutos da ANSOL
+  \item{} Assinatura de protocolo com a Casa das Associações, formalizando a sediação da ANSOL naquele espaço
+  \item{} Participação no seminário ``O Regulamento Nacional de Interoperabilidade Digital e a adoção de Normas Abertas pela Administração Pública''
+  \item{} Participação na consulta pública sobre normas abertas
+  \item{} Manutenção da lista de incumprimentos do RNID
+\end{itemize}
+
+A ANSOL em 2016\ldots depende de todos!
+\end{slide}
+
+\begin{slide}
+\includegraphics{eventos.png}
 \end{slide}
 
 % O SFD
@@ -234,15 +277,54 @@ O Software Freedom Day -- Objectivos \emph{(continuação)}
 \end{itemize}
 \end{slide}
 
+% Normas Abertas
+\begin{slide}
+\center{\Huge{Normas Abertas}}
+\end{slide}
+
+\input{rnid.tex} % TODO: transformar a fonte num .tex incluível, para que depois seja só necessário actualizar um dos lados
+
+% Teoria e prática de mãos dadas - o exemplo do leftpad
+\begin{slide}
+    Filosofia e código -- duas faces da mesma moeda
+    \begin{verbatim}
+// "license": "WTFPL"
+module.exports = leftpad;
+function leftpad (str, len, ch) {
+  str = String(str);
+  var i = -1;
+  if (!ch && ch !== 0) ch = ' ';
+  len = len - str.length;
+  while (++i < len) {
+    str = ch + str;
+  }
+  return str;
+}
+    \end{verbatim}
+\begin{tiny}\url{http://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/}\end{tiny}
+\end{slide}
+
+\begin{slide}
+\begin{itemize}
+\item{} trademark
+\item{} patentes de software
+\item{} npm takedown
+\item{} remoção de todos os módulos
+\item{} npm?
+\item{} WTFPL (vs. Apache 2.0, que protege os utilizadores de eventuais patentes de software)
+\end{itemize}
+\end{slide}
+
 % QUESTÕES
 
 \begin{slide}
 \center{\Huge{QUESTÕES?}}
 
 \emph{http://ansol.org} \\
-\emph{http://softwarefreedomday.org} \\
 \emph{http://fsfe.org} \\
-\emph{http://fsf.org}
+\emph{http://fsf.org} \\
+\emph{https://github.com/marado/ANSOL-MOSS} \\
+\emph{http://listas.ansol.org/mailman/listinfo/ansol-geral}
 \end{slide}
 
 \end{document}
