@@ -1,5 +1,6 @@
-# ANSOL-MOSS
-Apresentação sobre a ANSOL e o Software Livre, SFD e ANSOL, para apresentar
-numa Aula Aberta sobre o tema, no Mestrado em Software de Código Aberto.
+# ANSOL-presentation
 
-Mais informação: https://ansol.org/MOSS-ANSOL
+Apresentação genérica sobre a ANSOL e o Software Livre.
+
+Esta apresentação é baseada numa outra feita anteriormente, e que pode ser
+encontrada em https://github.com/marado/ANSOL-MOSS/ .
