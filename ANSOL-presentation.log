@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  7 OCT 2017 21:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  7 OCT 2017 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -224,37 +224,41 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip41
 )
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia/multimedia.sty
+Package: multimedia 2012/05/02 ver 0.02
+\mm@movie=\count94
+)
 (/home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentation/AN
 SOL-presentation.aux)
 \openout1 = `ANSOL-presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/lcmss/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/lcmss/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count94
+\scratchcounter=\count95
 \scratchdimen=\dimen110
 \scratchbox=\box29
-\nofMPsegments=\count95
-\nofMParguments=\count96
+\nofMPsegments=\count96
+\nofMParguments=\count97
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count97
+\MPscratchCnt=\count98
 \MPscratchDim=\dimen111
-\MPnumerator=\count98
-\makeMPintoPDFobject=\count99
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
 \everyMPtoPDFconversion=\toks18
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -274,7 +278,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -282,11 +286,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count100
+\c@section@level=\count101
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
 
 (/home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentation/AN
 SOL-presentation.out)
@@ -295,53 +299,53 @@ SOL-presentation.out)
 \@outlinefile=\write3
 \openout3 = `ANSOL-presentation.out'.
 
-LaTeX Font Info:    Try loading font information for T1+lcmtt on input line 29.
+LaTeX Font Info:    Try loading font information for T1+lcmtt on input line 30.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1lcmtt.fd
 File: t1lcmtt.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OML+lcmm on input line 29.
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omllcmm.fd
 File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 29
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 30
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omslcmsy.fd
 File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 29
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 30
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omxlcmex.fd
 File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <19.907> on input line 29.
+(Font)              <19.907> on input line 30.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <16.59> on input line 29.
+(Font)              <16.59> on input line 30.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <13.82> on input line 29.
+(Font)              <13.82> on input line 30.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-<pct2001-miguelg.jpg, id=23, 425.59pt x 252.945pt>
+<pct2001-miguelg.jpg, id=24, 425.59pt x 252.945pt>
 File: pct2001-miguelg.jpg Graphic file (type jpg)
  <use pct2001-miguelg.jpg>
-Package pdftex.def Info: pct2001-miguelg.jpg used on input line 64.
+Package pdftex.def Info: pct2001-miguelg.jpg used on input line 65.
 (pdftex.def)             Requested size: 425.58894pt x 252.94438pt.
 
 [4 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentation
 /pct2001-miguelg.jpg>]
 
-Class slides Warning: Slide 4 too long on input line 76.
+Class slides Warning: Slide 4 too long on input line 77.
 
 [4] [5]
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <12> on input line 144.
+(Font)              <12> on input line 145.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <7> on input line 144.
+(Font)              <7> on input line 145.
  [6]
 (/home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentation/ca
 tegory.latex
@@ -443,89 +447,141 @@ Overfull \hbox (2.0pt too wide) detected at line 489
 
 ) [7] [8] [9] [10]
 
-Class slides Warning: Slide 10 too long on input line 226.
+Class slides Warning: Slide 10 too long on input line 227.
 
-[10] <transparencia.png, id=71, 608.2725pt x 354.57469pt>
+[10] <transparencia.png, id=72, 608.2725pt x 354.57469pt>
 File: transparencia.png Graphic file (type png)
 
 <use transparencia.png>
-Package pdftex.def Info: transparencia.png used on input line 231.
+Package pdftex.def Info: transparencia.png used on input line 232.
 (pdftex.def)             Requested size: 608.27103pt x 354.57382pt.
- <CD.png, id=72, 678.28406pt x 325.215pt>
+ <CD.png, id=73, 678.28406pt x 325.215pt>
 File: CD.png Graphic file (type png)
  <use CD.png>
-Package pdftex.def Info: CD.png used on input line 233.
+Package pdftex.def Info: CD.png used on input line 234.
 (pdftex.def)             Requested size: 678.2824pt x 325.2142pt.
 
-Overfull \hbox (66.2824pt too wide) in paragraph at lines 232--234
+Overfull \hbox (66.2824pt too wide) in paragraph at lines 233--235
 [] 
  []
 
 [11 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
 n/transparencia.png>]
 
-Class slides Warning: Slide 11 too long on input line 236.
+Class slides Warning: Slide 11 too long on input line 237.
 
 [11 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
 n/CD.png>]
 
-Class slides Warning: Slide 11 too long on input line 291.
+Class slides Warning: Slide 11 too long on input line 292.
 
 [11] [12] [13]
 
-Class slides Warning: Slide 13 too long on input line 398.
+Class slides Warning: Slide 13 too long on input line 399.
 
 [13]
 
-Class slides Warning: Slide 13 too long on input line 399.
+Class slides Warning: Slide 13 too long on input line 400.
 
 [13] [14]
 
-Class slides Warning: Slide 14 too long on input line 410.
+Class slides Warning: Slide 14 too long on input line 411.
 
 [14] [15] [16]
 
-Class slides Warning: Slide 16 too long on input line 433.
+Class slides Warning: Slide 16 too long on input line 434.
 
 [16] [17]
 
-Class slides Warning: Slide 17 too long on input line 452.
+Class slides Warning: Slide 17 too long on input line 453.
 
 [17]
-Overfull \hbox (29.9352pt too wide) in paragraph at lines 461--462
+Overfull \hbox (29.9352pt too wide) in paragraph at lines 462--463
 []\T1/lcmss/m/n/19.907 Possibilidade de não ne-ces-si-dade de con-tabi-liza-ção
  de número
  []
 
 [18]
-Overfull \hbox (1.73341pt too wide) in paragraph at lines 467--468
+Overfull \hbox (1.73341pt too wide) in paragraph at lines 468--469
 []\T1/lcmss/m/n/19.907 Disponibilização de código fonte torna o soft-ware re-si
 liente
  []
 
 
-Class slides Warning: Slide 18 too long on input line 471.
+Class slides Warning: Slide 18 too long on input line 472.
 
-[18] [19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 493.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 493.
+[18] [19] <save-code-share.png, id=149, 533.74406pt x 329.73187pt>
+File: save-code-share.png Graphic file (type png)
+
+<use save-code-share.png>
+Package pdftex.def Info: save-code-share.png used on input line 484.
+(pdftex.def)             Requested size: 533.74275pt x 329.73105pt.
+ [20 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentati
+on/save-code-share.png (PNG copy)>]
+<pmpc-video.png, id=155, 572.1375pt x 357.58594pt>
+File: pmpc-video.png Graphic file (type png)
+ <use pmpc-video.png>
+Package pdftex.def Info: pmpc-video.png used on input line 489.
+(pdftex.def)             Requested size: 572.1361pt x 357.58505pt.
+
+[21 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
+n/pmpc-video.png (PNG copy)>]
+Overfull \hbox (60.66219pt too wide) in paragraph at lines 496--497
+[]\T1/lcmss/m/n/19.907 ANSOL-geral -- []$\T1/lcmtt/m/n/19.907 http : / / listas
+ . ansol . org / mailman / listinfo / ansol-[]geral$[] 
+ []
+
+<ansol-geral.png, id=162, 825.0825pt x 340.27126pt>
+File: ansol-geral.png Graphic file (type png)
+ <use ansol-geral.png>
+Package pdftex.def Info: ansol-geral.png used on input line 498.
+(pdftex.def)             Requested size: 825.08049pt x 340.27042pt.
+
+<ANSOL-flyers.png, id=163, 842.1864pt x 597.432pt>
+File: ANSOL-flyers.png Graphic file (type png)
+ <use ANSOL-flyers.png>
+Package pdftex.def Info: ANSOL-flyers.png used on input line 499.
+(pdftex.def)             Requested size: 673.75003pt x 477.94624pt.
+
+Overfull \hbox (175.08049pt too wide) in paragraph at lines 498--500
+[][] 
+ []
+
+
+Overfull \hbox (23.75003pt too wide) in paragraph at lines 498--500
+[] 
+ []
+
+[22 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
+n/ansol-geral.png (PNG copy)>]
+
+Class slides Warning: Slide 22 too long on input line 500.
+
+
+Overfull \vbox (55.94624pt too high) has occurred while \output is active []
+
+
+[22 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
+n/ANSOL-flyers.png (PNG copy)>] [23]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
 
 (/home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentation/AN
 SOL-presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 493.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 493.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 516.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
 Package rerunfilecheck Info: File `ANSOL-presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 493.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 516.
  ) 
 Here is how much of TeX's memory you used:
- 5539 strings out of 494945
- 83631 string characters out of 6181032
- 286425 words of memory out of 5000000
- 8746 multiletter control sequences out of 15000+600000
+ 5660 strings out of 494945
+ 85899 string characters out of 6181032
+ 289038 words of memory out of 5000000
+ 8854 multiletter control sequences out of 15000+600000
  17587 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 28i,6n,25p,264b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,30p,264b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/marado/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.3096p
 k> </home/marado/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/eclb8.1493p
 k> </home/marado/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/eclb8.1244p
@@ -543,10 +599,10 @@ k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb>
-Output written on ANSOL-presentation.pdf (29 pages, 382679 bytes).
+Output written on ANSOL-presentation.pdf (34 pages, 1091950 bytes).
 PDF statistics:
- 526 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 573 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 40 words of extra memory for PDF output out of 10000 (max. 10000000)
 
