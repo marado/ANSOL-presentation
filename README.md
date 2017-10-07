@@ -1,6 +1,6 @@
-# ANSOL-presentation
+# ANSOL Presentation
 
-Apresentação genérica sobre a ANSOL e o Software Livre.
+Apresentação genérica sobre a [ANSOL](https://ansol.org) e o Software Livre.
 
 Esta apresentação é baseada numa outra feita anteriormente, e que pode ser
 encontrada em [ANSOL-MOSS](https://github.com/marado/ANSOL-MOSS/), e tem uma
