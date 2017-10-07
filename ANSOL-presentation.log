@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  7 OCT 2017 18:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  7 OCT 2017 21:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -471,21 +471,56 @@ n/CD.png>]
 
 Class slides Warning: Slide 11 too long on input line 291.
 
-[11] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 393.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 393.
+[11] [12] [13]
+
+Class slides Warning: Slide 13 too long on input line 398.
+
+[13]
+
+Class slides Warning: Slide 13 too long on input line 399.
+
+[13] [14]
+
+Class slides Warning: Slide 14 too long on input line 410.
+
+[14] [15] [16]
+
+Class slides Warning: Slide 16 too long on input line 433.
+
+[16] [17]
+
+Class slides Warning: Slide 17 too long on input line 452.
+
+[17]
+Overfull \hbox (29.9352pt too wide) in paragraph at lines 461--462
+[]\T1/lcmss/m/n/19.907 Possibilidade de não ne-ces-si-dade de con-tabi-liza-ção
+ de número
+ []
+
+[18]
+Overfull \hbox (1.73341pt too wide) in paragraph at lines 467--468
+[]\T1/lcmss/m/n/19.907 Disponibilização de código fonte torna o soft-ware re-si
+liente
+ []
+
+
+Class slides Warning: Slide 18 too long on input line 471.
+
+[18] [19]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 493.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 493.
 
 (/home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentation/AN
 SOL-presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 393.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 393.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 493.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 493.
 Package rerunfilecheck Info: File `ANSOL-presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 393.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 493.
  ) 
 Here is how much of TeX's memory you used:
- 5526 strings out of 494945
- 83510 string characters out of 6181032
+ 5539 strings out of 494945
+ 83631 string characters out of 6181032
  286425 words of memory out of 5000000
  8746 multiletter control sequences out of 15000+600000
  17587 words of font info for 43 fonts, out of 8000000 for 9000
@@ -508,10 +543,10 @@ k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb>
-Output written on ANSOL-presentation.pdf (16 pages, 370524 bytes).
+Output written on ANSOL-presentation.pdf (29 pages, 382679 bytes).
 PDF statistics:
- 459 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
+ 526 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
