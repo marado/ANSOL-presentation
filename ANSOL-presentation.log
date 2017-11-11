@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  8 OCT 2017 17:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  11 NOV 2017 15:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -511,59 +511,65 @@ liente
 
 Class slides Warning: Slide 18 too long on input line 441.
 
-[18] [19] <save-code-share.png, id=149, 533.74406pt x 329.73187pt>
+[18]
+Overfull \hbox (55.9929pt too wide) in paragraph at lines 448--449
+[]\T1/lcmss/m/n/19.907 Licenciamento per-mite in-clusão em pro-gra-mas não-livr
+es (MySQL) 
+ []
+
+[19] [20] [21] <save-code-share.png, id=158, 533.74406pt x 329.73187pt>
 File: save-code-share.png Graphic file (type png)
 
 <use save-code-share.png>
-Package pdftex.def Info: save-code-share.png used on input line 453.
+Package pdftex.def Info: save-code-share.png used on input line 472.
 (pdftex.def)             Requested size: 533.74275pt x 329.73105pt.
- [20 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentati
+ [22 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentati
 on/save-code-share.png (PNG copy)>]
-<pmpc-video.png, id=155, 572.1375pt x 357.58594pt>
+<pmpc-video.png, id=165, 572.1375pt x 357.58594pt>
 File: pmpc-video.png Graphic file (type png)
  <use pmpc-video.png>
-Package pdftex.def Info: pmpc-video.png used on input line 458.
+Package pdftex.def Info: pmpc-video.png used on input line 477.
 (pdftex.def)             Requested size: 572.1361pt x 357.58505pt.
 
-[21 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
+[23 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
 n/pmpc-video.png (PNG copy)>]
-Overfull \hbox (60.66219pt too wide) in paragraph at lines 465--466
+Overfull \hbox (60.66219pt too wide) in paragraph at lines 484--485
 []\T1/lcmss/m/n/19.907 ANSOL-geral -- []$\T1/lcmtt/m/n/19.907 http : / / listas
  . ansol . org / mailman / listinfo / ansol-[]geral$[] 
  []
 
-<ansol-geral.png, id=162, 825.0825pt x 340.27126pt>
+<ansol-geral.png, id=171, 825.0825pt x 340.27126pt>
 File: ansol-geral.png Graphic file (type png)
  <use ansol-geral.png>
-Package pdftex.def Info: ansol-geral.png used on input line 467.
+Package pdftex.def Info: ansol-geral.png used on input line 486.
 (pdftex.def)             Requested size: 825.08049pt x 340.27042pt.
 
-<ANSOL-flyers.png, id=163, 842.1864pt x 597.432pt>
+<ANSOL-flyers.png, id=172, 842.1864pt x 597.432pt>
 File: ANSOL-flyers.png Graphic file (type png)
  <use ANSOL-flyers.png>
-Package pdftex.def Info: ANSOL-flyers.png used on input line 468.
+Package pdftex.def Info: ANSOL-flyers.png used on input line 487.
 (pdftex.def)             Requested size: 673.75003pt x 477.94624pt.
 
-Overfull \hbox (175.08049pt too wide) in paragraph at lines 467--469
+Overfull \hbox (175.08049pt too wide) in paragraph at lines 486--488
 [][] 
  []
 
 
-Overfull \hbox (23.75003pt too wide) in paragraph at lines 467--469
+Overfull \hbox (23.75003pt too wide) in paragraph at lines 486--488
 [] 
  []
 
-[22 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
+[24 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
 n/ansol-geral.png (PNG copy)>]
 
-Class slides Warning: Slide 22 too long on input line 469.
+Class slides Warning: Slide 24 too long on input line 488.
 
 
 Overfull \vbox (55.94624pt too high) has occurred while \output is active []
 
 
-[22 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
-n/ANSOL-flyers.png (PNG copy)>]) [23]
+[24 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
+n/ANSOL-flyers.png (PNG copy)>]) [25]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
 
@@ -576,8 +582,8 @@ Package rerunfilecheck Info: File `ANSOL-presentation.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 5663 strings out of 494945
- 86074 string characters out of 6181032
+ 5665 strings out of 494945
+ 86088 string characters out of 6181032
  289038 words of memory out of 5000000
  8854 multiletter control sequences out of 15000+600000
  17587 words of font info for 43 fonts, out of 8000000 for 9000
@@ -600,10 +606,10 @@ k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb>
-Output written on ANSOL-presentation.pdf (34 pages, 1091950 bytes).
+Output written on ANSOL-presentation.pdf (36 pages, 1093051 bytes).
 PDF statistics:
- 573 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 584 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
  40 words of extra memory for PDF output out of 10000 (max. 10000000)
 
