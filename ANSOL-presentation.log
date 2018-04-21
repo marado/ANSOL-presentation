@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  11 NOV 2017 16:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  21 APR 2018 23:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -339,18 +339,18 @@ SOL.tex [2] [3] <pct2001-miguelg.jpg, id=24, 425.59pt x 252.945pt>
 File: pct2001-miguelg.jpg Graphic file (type jpg)
 
 <use pct2001-miguelg.jpg>
-Package pdftex.def Info: pct2001-miguelg.jpg used on input line 34.
+Package pdftex.def Info: pct2001-miguelg.jpg used on input line 36.
 (pdftex.def)             Requested size: 425.58894pt x 252.94438pt.
  [4 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
 n/pct2001-miguelg.jpg>]
 
-Class slides Warning: Slide 4 too long on input line 46.
+Class slides Warning: Slide 4 too long on input line 48.
 
 [4] [5]
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <12> on input line 114.
+(Font)              <12> on input line 116.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <7> on input line 114.
+(Font)              <7> on input line 116.
  [6]
 (/home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentation/ca
 tegory.latex
@@ -452,71 +452,71 @@ Overfull \hbox (2.0pt too wide) detected at line 489
 
 ) [7] [8] [9] [10]
 
-Class slides Warning: Slide 10 too long on input line 196.
+Class slides Warning: Slide 10 too long on input line 198.
 
 [10] <transparencia.png, id=72, 608.2725pt x 354.57469pt>
 File: transparencia.png Graphic file (type png)
 
 <use transparencia.png>
-Package pdftex.def Info: transparencia.png used on input line 201.
+Package pdftex.def Info: transparencia.png used on input line 203.
 (pdftex.def)             Requested size: 608.27103pt x 354.57382pt.
  <CD.png, id=73, 678.28406pt x 325.215pt>
 File: CD.png Graphic file (type png)
  <use CD.png>
-Package pdftex.def Info: CD.png used on input line 203.
+Package pdftex.def Info: CD.png used on input line 205.
 (pdftex.def)             Requested size: 678.2824pt x 325.2142pt.
 
-Overfull \hbox (66.2824pt too wide) in paragraph at lines 202--204
+Overfull \hbox (66.2824pt too wide) in paragraph at lines 204--206
 [] 
  []
 
 [11 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
 n/transparencia.png>]
 
-Class slides Warning: Slide 11 too long on input line 206.
+Class slides Warning: Slide 11 too long on input line 208.
 
 [11 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
 n/CD.png>]
 
-Class slides Warning: Slide 11 too long on input line 261.
+Class slides Warning: Slide 11 too long on input line 263.
 
 [11] [12] [13]
 
-Class slides Warning: Slide 13 too long on input line 368.
+Class slides Warning: Slide 13 too long on input line 370.
 
 [13]
 
-Class slides Warning: Slide 13 too long on input line 369.
+Class slides Warning: Slide 13 too long on input line 371.
 
 [13] [14]
 
-Class slides Warning: Slide 14 too long on input line 380.
+Class slides Warning: Slide 14 too long on input line 382.
 
 [14] [15] [16]
 
-Class slides Warning: Slide 16 too long on input line 403.
+Class slides Warning: Slide 16 too long on input line 405.
 
 [16] [17]
 
-Class slides Warning: Slide 17 too long on input line 422.
+Class slides Warning: Slide 17 too long on input line 424.
 
 [17]
-Overfull \hbox (29.9352pt too wide) in paragraph at lines 431--432
+Overfull \hbox (29.9352pt too wide) in paragraph at lines 433--434
 []\T1/lcmss/m/n/19.907 Possibilidade de não ne-ces-si-dade de con-tabi-liza-ção
  de número
  []
 
 [18]
-Overfull \hbox (1.73341pt too wide) in paragraph at lines 437--438
+Overfull \hbox (1.73341pt too wide) in paragraph at lines 439--440
 []\T1/lcmss/m/n/19.907 Disponibilização de código fonte torna o soft-ware re-si
 liente
  []
 
 
-Class slides Warning: Slide 18 too long on input line 441.
+Class slides Warning: Slide 18 too long on input line 443.
 
 [18]
-Overfull \hbox (55.9929pt too wide) in paragraph at lines 448--449
+Overfull \hbox (55.9929pt too wide) in paragraph at lines 450--451
 []\T1/lcmss/m/n/19.907 Licenciamento per-mite in-clusão em pro-gra-mas não-livr
 es (MySQL) 
  []
@@ -525,14 +525,14 @@ es (MySQL)
 File: save-code-share.png Graphic file (type png)
 
 <use save-code-share.png>
-Package pdftex.def Info: save-code-share.png used on input line 472.
+Package pdftex.def Info: save-code-share.png used on input line 474.
 (pdftex.def)             Requested size: 533.74275pt x 329.73105pt.
  [22 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentati
 on/save-code-share.png (PNG copy)>]
 <pmpc-video.png, id=165, 572.1375pt x 357.58594pt>
 File: pmpc-video.png Graphic file (type png)
  <use pmpc-video.png>
-Package pdftex.def Info: pmpc-video.png used on input line 477.
+Package pdftex.def Info: pmpc-video.png used on input line 479.
 (pdftex.def)             Requested size: 572.1361pt x 357.58505pt.
 
 [23 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentatio
@@ -540,16 +540,16 @@ n/pmpc-video.png (PNG copy)>]
 <ansol-geral.png, id=171, 825.0825pt x 340.27126pt>
 File: ansol-geral.png Graphic file (type png)
  <use ansol-geral.png>
-Package pdftex.def Info: ansol-geral.png used on input line 485.
+Package pdftex.def Info: ansol-geral.png used on input line 487.
 (pdftex.def)             Requested size: 825.08049pt x 340.27042pt.
 
-Overfull \hbox (60.66219pt too wide) in paragraph at lines 484--486
+Overfull \hbox (60.66219pt too wide) in paragraph at lines 486--488
 []\T1/lcmss/m/n/19.907 ANSOL-geral -- []$\T1/lcmtt/m/n/19.907 http : / / listas
  . ansol . org / mailman / listinfo / ansol-[]geral$[]
  []
 
 
-Overfull \hbox (175.08049pt too wide) in paragraph at lines 484--486
+Overfull \hbox (175.08049pt too wide) in paragraph at lines 486--488
 [] 
  []
 
@@ -559,17 +559,17 @@ n/ansol-geral.png (PNG copy)>]
 File: ANSOL-freewear.png Graphic file (type png)
 
 <use ANSOL-freewear.png>
-Package pdftex.def Info: ANSOL-freewear.png used on input line 489.
+Package pdftex.def Info: ANSOL-freewear.png used on input line 491.
 (pdftex.def)             Requested size: 387.69748pt x 212.2926pt.
  [25 </home/marado/personal/activismo/ansol/ANSOL-presentation/ANSOL-presentati
 on/ANSOL-freewear.png (PNG copy)>]
 <ANSOL-flyers.png, id=182, 842.1864pt x 597.432pt>
 File: ANSOL-flyers.png Graphic file (type png)
  <use ANSOL-flyers.png>
-Package pdftex.def Info: ANSOL-flyers.png used on input line 495.
+Package pdftex.def Info: ANSOL-flyers.png used on input line 497.
 (pdftex.def)             Requested size: 673.75003pt x 477.94624pt.
 
-Overfull \hbox (23.75003pt too wide) in paragraph at lines 495--496
+Overfull \hbox (23.75003pt too wide) in paragraph at lines 497--498
 [][] 
  []
 
@@ -616,7 +616,7 @@ k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
 texlive/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb>
-Output written on ANSOL-presentation.pdf (37 pages, 1126579 bytes).
+Output written on ANSOL-presentation.pdf (37 pages, 1126617 bytes).
 PDF statistics:
  597 PDF objects out of 1000 (max. 8388607)
  207 compressed objects within 3 object streams
