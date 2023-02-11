@@ -1,0 +1,52 @@
+% Define o tipo de documento
+\documentclass[landscape]{slides}
+
+% Importa os caracteres latinos, hifeniza Português
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{eurosym}
+\usepackage[portuguese]{babel}
+
+% Importa os pacotes para inclusao de graficos, links e vídeos
+\usepackage{graphicx}
+\usepackage{epsfig,color}
+\usepackage{hyperref}
+\usepackage{multimedia}
+
+% Remove page numbers
+\usepackage{nopageno}
+
+% Define o autor
+\author{\url{https://ansol.org}}
+
+% Define o titulo
+\title{ANSOL\\Associação Nacional para o Software Livre}
+
+% Define a data
+\date{2020}
+
+% Da inicio ao documento
+\begin{document}
+
+% TITLE
+
+\begin{slide}
+\maketitle
+\end{slide}
+
+% O conteúdo propriamente dito sobre a ANSOL
+\input{ANSOL-en.tex}
+
+%% QUESTÕES
+\begin{slide}
+\center{\Huge{QUESTIONS?}}
+
+\emph{http://ansol.org} \\
+\emph{http://fsfe.org} \\
+\emph{http://fsf.org} \\
+\emph{https://git.ansol.org/ansol/presentation} \\
+\emph{http://listas.ansol.org/mailman/listinfo/ansol-geral} \\
+\emph{https://publiccode.eu}
+\end{slide}
+
+\end{document}
